@@ -1,0 +1,7 @@
+a=(1 , 54 , 654 , 1 , 23458 , 1 , 13215613 , 1)
+# print(a)
+# print(a.count(1))
+# b=a.count(1)
+# print(b)
+c=a.index(1)
+print(c)

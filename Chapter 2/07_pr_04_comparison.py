@@ -1,0 +1,5 @@
+a=input("ENTER NUMBER ")
+b=input("ENTER NUMBER ")
+a=int(a)
+b=int(b)
+print(a!=b)

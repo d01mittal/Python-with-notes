@@ -1,0 +1,10 @@
+a1=int(input("ENTER NUMBER 1: "))
+a2=int(input("ENTER NUMBER 2: "))
+a3=int(input("ENTER NUMBER 3: "))
+a4=int(input("ENTER NUMBER 4: "))
+a5=int(input("ENTER NUMBER 5: "))
+a6=int(input("ENTER NUMBER 6: "))
+a7=int(input("ENTER NUMBER 7: "))
+a8=int(input("ENTER NUMBER 8: "))
+s={a1,a2,a3,a4,a5,a6,a7,a8}
+print(s)

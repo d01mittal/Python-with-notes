@@ -1,0 +1,10 @@
+m1=int(input("Enter the marks of sudent 1: "))
+m2=int(input("Enter the marks of sudent 2: "))
+m3=int(input("Enter the marks of sudent 3: "))
+m4=int(input("Enter the marks of sudent 4: "))
+m5=int(input("Enter the marks of sudent 5: "))
+m6=int(input("Enter the marks of sudent 6: "))
+marks_list=[m1,m2,m3,m4,m5,m6]
+print(marks_list)
+marks_list.sort()
+print("SORTED LIST IS\n",marks_list)
